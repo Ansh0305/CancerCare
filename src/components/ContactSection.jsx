@@ -3,7 +3,7 @@ import React from "react";
 export default function ContactSection() {
     const handleSubmit = (e) => {
         e.preventDefault();
-        alert("Thank you for contacting! (Front-end only, no backend used)");
+        alert("Thank you for contacting!");
         e.target.reset();
     };
 
