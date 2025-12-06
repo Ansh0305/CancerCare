@@ -35,23 +35,41 @@ This project spreads awareness about cancer, highlights the importance of early 
 ## 📂 Project Structure
 
 cancer-awareness/
+
 │── public/
+
 │ └── banner.jpg
+
 │── src/
+
 │ ├── components/
+
 │ │ ├── Navbar.jsx
+
 │ │ ├── Hero.jsx
+
 │ │ ├── AwarenessSection.jsx
+
 │ │ ├── SupportSection.jsx
+
 │ │ ├── ContactSection.jsx
+
 │ │ └── Footer.jsx
+
 │ ├── App.jsx
+
 │ ├── main.jsx
+
 │ └── index.css
+
 │── tailwind.config.js
+
 │── postcss.config.js
+
 │── package.json
+
 └── README.md
+
 
 
 ---
@@ -90,24 +108,24 @@ http://localhost:5173
 
 ## 📄 Project Purpose
 
-This project was created as an academic assignment to:
+- This project was created as an academic assignment to:
 
-Practice component-based design in React
+- Practice component-based design in React
 
-Implement responsive UI using Tailwind CSS
+- Implement responsive UI using Tailwind CSS
 
-Build a web page with landing section + contact form
+- Build a web page with landing section + contact form
 
-Promote general cancer awareness & support
+- Promote general cancer awareness & support
 
 
 ## ✨ Improvements (Future scope)
 
-Add backend for storing form data
+- Add backend for storing form data
 
-Add awareness blog/articles section
+- Add awareness blog/articles section
 
-Add more cancer-type-specific info
+- Add more cancer-type-specific info
 
 ## 📝 License
 
