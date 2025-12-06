@@ -129,7 +129,10 @@ http://localhost:5173
 
 ## 📝 License
 
-This project is for educational and learning purposes.
+This project is for **educational and learning purposes only**.  
 Feel free to modify and improve it.
 
+---
+
 Made with ❤️ for Awareness & Hope.
+
