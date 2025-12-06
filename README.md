@@ -5,8 +5,8 @@ This project spreads awareness about cancer, highlights the importance of early 
 
 ---
 
-## 🌐 Live Demo
-*(Add link after deployment)*  
+### 🌐 Live Demo  
+👉 **[awareforall.netlify.app](https://awareforall.netlify.app)**
 
 ---
 
