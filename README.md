@@ -58,8 +58,6 @@ cancer-awareness/
 
 ## 🚀 Run Locally
 
-## 🚀 Run Locally
-
 Clone the project
 
 ```bash
@@ -89,3 +87,31 @@ Open in browser
 ```
 http://localhost:5173
 ```
+
+## 📄 Project Purpose
+
+This project was created as an academic assignment to:
+
+Practice component-based design in React
+
+Implement responsive UI using Tailwind CSS
+
+Build a web page with landing section + contact form
+
+Promote general cancer awareness & support
+
+
+## ✨ Improvements (Future scope)
+
+Add backend for storing form data
+
+Add awareness blog/articles section
+
+Add more cancer-type-specific info
+
+## 📝 License
+
+This project is for educational and learning purposes.
+Feel free to modify and improve it.
+
+Made with ❤️ for Awareness & Hope.
